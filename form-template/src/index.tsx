@@ -28,10 +28,10 @@ import { BizuitSDK } from '@tyconsa/bizuit-form-sdk';
 const SDK_CONFIG = {
   // TODO: Update with your Dashboard API URL (WITHOUT trailing slash)
   // Example: 'https://test.bizuit.com/yourTenantBizuitDashboardapi/api'
-  defaultApiUrl: '',
+  defaultApiUrl: 'https://pruinsurcloudns.transfiriendo.com:479/BIZUITDashboardPruNSApi',
 
   // TODO: Update with your process name
-  processName: 'YourProcessName'
+  processName: 'Insurcloud'
 };
 
 // ============================================================================
